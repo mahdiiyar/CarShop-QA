@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1006]G:\Semester 4\Quality Insurance\PROG2070Assign4\Assign4Test\testingAssign4Test\bin\Debug\testingAssign4Test.dll</TopNode>
+  <SelectedNode>[0-1000]testingAssign4Test.TestingAssign4</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1006]G:\Semester 4\Quality Insurance\PROG2070Assign4\Assign4Test\testingAssign4Test\bin\Debug\testingAssign4Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1007]testingAssign4Test" Expanded="true" />
+    <Node UniqueName="[0-1000]testingAssign4Test.TestingAssign4" Expanded="true" />
+  </Nodes>
+</VisualState>

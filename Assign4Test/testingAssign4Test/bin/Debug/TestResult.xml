@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="G:\Semester 4\Quality Insurance\PROG2070Assign4\Assign4Test\testingAssign4Test\bin\Debug\testingAssign4Test.dll" total="5" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-04-08" time="13:54:00">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="2A140-F03" user="mkhomeiri6611" user-domain="CONESTOGAC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="G:\Semester 4\Quality Insurance\PROG2070Assign4\Assign4Test\testingAssign4Test\bin\Debug\testingAssign4Test.dll" executed="True" result="Success" success="True" time="27.146" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="testingAssign4Test" executed="True" result="Success" success="True" time="27.146" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestingAssign4" executed="True" result="Success" success="True" time="27.144" asserts="0">
+            <results>
+              <test-case name="testingAssign4Test.TestingAssign4.TheAddCarTest" executed="True" result="Success" success="True" time="6.127" asserts="2" />
+              <test-case name="testingAssign4Test.TestingAssign4.TheErrorValidationTest" executed="True" result="Success" success="True" time="4.182" asserts="1" />
+              <test-case name="testingAssign4Test.TestingAssign4.TheLinkToJDTest" executed="True" result="Success" success="True" time="8.064" asserts="1" />
+              <test-case name="testingAssign4Test.TestingAssign4.ThePhoneNumberBreakTest" executed="True" result="Success" success="True" time="4.561" asserts="1" />
+              <test-case name="testingAssign4Test.TestingAssign4.TheSearchByMakeTest" executed="True" result="Success" success="True" time="4.198" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
